@@ -4,3 +4,4 @@ OpenAI
 pandas
 os
 streamlit
+pip
