@@ -1,7 +1,8 @@
-langchain
+pip
 langchain_community
 OpenAI
 pandas
 os
+langchain
+openai
 streamlit
-pip
